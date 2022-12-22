@@ -1,0 +1,4 @@
+
+
+variable in java are not alllowed to contain white space,so variable made from compund words are to be wriitten with a lower camel case syntax.
+variable always start with lowercase letter and then capitalize the first letter of every subsequent word.
