@@ -9,3 +9,10 @@ constructor have three type
 -paramertized
 -copy
 constructer have no any return type.
+
+Array is a group for values
+Array has two types
+-single dimensional array
+-multidimensional array
+array is to stored in single variable
+
